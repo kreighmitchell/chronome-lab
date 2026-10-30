@@ -1,0 +1,6 @@
+Firmware/** linguist-detectable=true
+**/*.c linguist-language=C
+**/*.h linguist-language=C
+**/*.cpp linguist-language=C++
+Enclosure/** linguist-documentation
+Parts BOM/** linguist-documentation
